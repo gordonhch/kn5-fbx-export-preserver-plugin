@@ -1,4 +1,5 @@
 # K.F.C. - a kn5-fbx compatibility exporter plugin for Blender
+https://github.com/gordonhch/KFC-kn5-fbx-compatibility-exporter-plugin-for-blender/blob/master/README.png?raw=true
 
 A plugin for [Blender](https://www.blender.org/) that adds a tweaked fbx exporter to preserve the import file structure presumably from Autodesk softwares.
 
