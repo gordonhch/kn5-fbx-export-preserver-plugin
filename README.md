@@ -1,4 +1,4 @@
-###kn5-fbx export preserver plugin (Blender)
+# kn5-fbx export preserver plugin (Blender)
 ![image](https://github.com/gordonhch/KFC-kn5-fbx-compatibility-exporter-plugin-for-blender/blob/master/README.png?raw=true)
 
 A plugin for [Blender](https://www.blender.org/) that adds a tweaked fbx exporter to preserve the import file structure presumably from Autodesk softwares.
